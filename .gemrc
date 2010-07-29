@@ -1,0 +1,10 @@
+--- 
+:update_sources: true
+:backtrace: false
+:verbose: true
+:bulk_threshold: 1000
+:benchmark: false
+:sources: 
+- http://gems.transis.net
+- http://gems.github.com
+- http://gemcutter.org
